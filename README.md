@@ -7,6 +7,7 @@
 
 
 * **Sistema de Ranqueamento para Equipes de Futebol Sul-Americanos:** https://urless.in/s1Xpz
+* **Comparando Modelos de Machine Learning:** https://urless.in/OuuiK
 
 
 ---
